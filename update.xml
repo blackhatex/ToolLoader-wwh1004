@@ -5,7 +5,7 @@
     <url>DetilFPAR.zip</url>
     <changelog>changelog.html</changelog>
     <mandatory>false</mandatory>
-	<restricttime>03-03</restricttime>
+	<restricttime>00-24</restricttime>
 	<restrictmsg></restrictmsg>
 	<restricttimeNew>03-03</restricttimeNew>
 	<restrictmsgNew></restrictmsgNew>
